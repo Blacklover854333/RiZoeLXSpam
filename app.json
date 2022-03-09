@@ -1,7 +1,7 @@
 {
-      "name": "RiZoeL X Spam",
+      "name": "Abhishekraza X Spam",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "https://telegra.ph/file/db194f99e15db50f43c72.jpg",
+      "logo": "https://https://te.legra.ph/file/272eac8d286199c7d87f0.jpg",
       "keywords": [
         "telegram",
         "telethon",
@@ -9,8 +9,8 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/MrRizoel",
-  "website": "https://github.com/MrRizoel",
+  "repository": "https://github.com/Blacklover854333",
+  "website": "https://github.com/Blacklover854333",
   "success_url": "https://t.me/RiZoeLX",
   "env": {
              "API_ID": {
@@ -240,7 +240,7 @@
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "@abhishekraza",
             "required": true
         },
       "CMD_HNDLR": {
